@@ -8,7 +8,7 @@ A faucet possui captcha para contas novas e/ou que não possuem um saldo de +/- 
 ## Colocando o script em ação
 1. Vá até o site [freebitco.in](freebitco.in).
 
-2. Faça login na sua conta. Caso ainda não tenha uma conta e queira me apoiar, utilize o meu código de referido: https://freebitco.in/?r=1985913.
+2. Faça login na sua conta. Caso ainda não tenha uma conta e queira me apoiar, se cadastre utilizando o meu código de referido: https://freebitco.in/?r=1985913.
 
 3. Instale a extensão [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=pt-BR) no seu Google Chrome. Essa extensão tem como finalidade deixar salvo e executar um código javascript a partir do seu navegador.
 
