@@ -1,11 +1,11 @@
-##freebitcoin-autoclaim
+## freebitcoin-autoclaim
 Este script tem como finalidade executar a cada hora o freeroll da faucet freebitco.in.
 
 Além de executar o roll a cada hora, o script também ativa os rewards points e free btc bonus.
 
 A faucet possui captcha para contas novas e/ou que não possuem um saldo de +/- $100 em Bitcoin. Será necessário ter essa quantia em sua conta para conseguir utilizar o script.
 
-#Colocando o script em ação
+# Colocando o script em ação
 1. Vá até o site freebitco.in.
 
 2. Faça login na sua conta. Caso ainda não tenha uma conta e queira me apoiar, utilize o meu código de referido: https://freebitco.in/?r=1985913.
@@ -16,7 +16,7 @@ A faucet possui captcha para contas novas e/ou que não possuem um saldo de +/- 
 
 5. Com o seu script do Tampermonkey pronto, basta atualizar a página do site do freebitcoin para ver no ícone da extensão do Tampermonkey que há 1 script em execução.
 
-#Configurando o script
+# Configurando o script
 Logo no início do script você verá essas três variáveis:
 ```
 var ativarRewards = true;
