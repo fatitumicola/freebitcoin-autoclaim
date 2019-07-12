@@ -12,7 +12,7 @@ A faucet possui captcha para contas novas e/ou que não possuem um saldo de +/- 
 
 3. Instale a extensão [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=pt-BR) no seu Google Chrome. Essa extensão tem como finalidade deixar salvo e executar um código javascript a partir do seu navegador.
 
-4. Acesse o dashboard do Tampermonkey e crie um novo script. Cole o código do arquivo script.js em seu novo script do Tampermonkey.
+4. Acesse o dashboard do Tampermonkey e crie um novo script. Cole e salve (ctrl + s) o código do arquivo script.js em seu novo script do Tampermonkey.
 
 5. Com o seu script do Tampermonkey pronto, basta atualizar a página do site do freebitcoin para ver no ícone da extensão do Tampermonkey que há 1 script em execução.
 
